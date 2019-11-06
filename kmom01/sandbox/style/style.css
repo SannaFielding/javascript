@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: #d98db7;
+}
+
+h3 {
+    color: black;
+}
+
+.content {
+    border: 5px dotted black;
+    background-color: #ecc6db;
+    padding: 1.5em;
+    margin: 0 auto;
+    height: 500px;
+    width: 800px;
+    border-radius: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 0.5em;
+}
